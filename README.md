@@ -17,7 +17,7 @@ Sou uma desenvolvedora FullStack do Brasil 🇧🇷, apaixonada por transformar 
 - [**projetoCurso2.0**](https://github.com/LPMLarica/projetoCurso2.0): Correção de um curso antigo feito pelo 0.
 - [**CGWproject**](https://github.com/LPMLarica/CGWproject): Projeto CGW.
 - [**ProjetoFood**](https://github.com/LPMLarica/ProjetoFood): Projeto relacionado a alimentos.
-- - [**Projeto Food**](https://github.com/LPMLarica/ProjetoFood): :contentReference[oaicite:6]{index=6}&#8203;:contentReference[oaicite:7]{index=7}
+- [**Projeto Food**](https://github.com/LPMLarica/ProjetoFood): :contentReference[oaicite:6]{index=6}&#8203;:contentReference[oaicite:7]{index=7}
 
 ## 📫 Como me encontrar:
 
