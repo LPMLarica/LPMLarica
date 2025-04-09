@@ -22,7 +22,7 @@ Sou uma desenvolvedora FullStack do Brasil 🇧🇷, apaixonada por transformar 
 
 - **GitHub:** [LPMLarica](https://github.com/LPMLarica)
 - **E-mail:** [larissacamposcardoso@gmail.com](mailto:larissacamposcardoso@gmail.com)
-- **LinkedIn:** [Larissa]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/larissa-campos-a70284239))
+- **LinkedIn:** [Larissa Campos]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/larissa-campos-a70284239))
 
 ---
 
