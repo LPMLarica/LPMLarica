@@ -30,5 +30,4 @@ Sou uma desenvolvedora FullStack do Brasil 🇧🇷, apaixonada por transformar 
 
 
 
-![image](https://github.com/user-attachments/assets/79f03ff4-e822-4f2e-9bb0-892310c28fde)
 
