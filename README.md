@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 FullStack BR Developer
 
-<!--
-**LPMLarica/LPMLarica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```ts
+@Component({
+  selector: 'app-dev',
+  template: `
+    <h1>Olá, sou um Dev FullStack 🇧🇷</h1>
+    <p>Transformo ideias em aplicações reais, com performance e estilo.</p>
+    <ul>
+      <li>🐍 Python | ⚙️ Delphi | 🌐 Node.js</li>
+      <li>🖥️ JavaScript | 🅰️ Angular | 🎨 CSS</li>
+      <li>🗄️ SQL | 💡 C#</li>
+    </ul>
+  `
+})
+export class DevComponent {}
