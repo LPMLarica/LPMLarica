@@ -20,7 +20,14 @@ Sou uma desenvolvedora FullStack do Brasil 🇧🇷, apaixonada por transformar 
 
 - [**Projeto Curso**](https://github.com/LPMLarica/projetoCurso): Projeto Curso Angular 1
 
-- [**Projeto Food**](https://github.com/LPMLarica/ProjetoFood): Projeto feito em Angular de uma loja de comida
+-  [**stmonetario**](https://github.com/LPMLarica/stmonetario)  
+  Aplicação em Streamlit para controle financeiro pessoal, focado em praticidade e visualização de dados.
+
+-  [**yoloreconhecimentoimagens**](https://github.com/LPMLarica/yoloreconhecimentoimagens)  
+  Projeto de reconhecimento de imagens utilizando o modelo YOLO (You Only Look Once) para identificação de objetos em tempo real.
+
+-  [**mapainterativo**](https://github.com/LPMLarica/mapainterativo)  
+  Sistema de mapa interativo para visualização de pontos geográficos com foco em UX e dinamismo.
 
 - [**CGW Project**](https://github.com/LPMLarica/CGWproject): Projeto do site da empresa CGW
 
