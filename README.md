@@ -14,8 +14,6 @@ Sou uma desenvolvedora FullStack do Brasil 🇧🇷, apaixonada por transformar 
 
 ## 📂 Projetos Destacados:
 
-- [**ChatbotJS**](https://github.com/LPMLarica/chatbotJS): Projeto de desenvolvimento de um chatbot responsivo utilizando Javascript 
-
 - [**CancerIA**](https://github.com/LPMLarica/CancerIA): Projeto TCC
 
 - [**Hackathon Project**](https://github.com/LPMLarica/hackathon-project): Projeto Hackathon Biofy
@@ -23,8 +21,6 @@ Sou uma desenvolvedora FullStack do Brasil 🇧🇷, apaixonada por transformar 
 - [**Projeto Curso**](https://github.com/LPMLarica/projetoCurso): Projeto Curso Angular 1
 
 - [**Projeto Food**](https://github.com/LPMLarica/ProjetoFood): Projeto feito em Angular de uma loja de comida
-
-- [**Projeto Curso 2.0**](https://github.com/LPMLarica/projetoCurso2.0): Projeto Angular 2
 
 - [**CGW Project**](https://github.com/LPMLarica/CGWproject): Projeto do site da empresa CGW
 
