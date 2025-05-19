@@ -4,8 +4,8 @@ Sou uma desenvolvedora FullStack do Brasil 🇧🇷, apaixonada por transformar 
 
 ## 🚀 Tecnologias e Ferramentas:
 
-- **Back-end:** Python | Delphi | Node.js | C#
-- **Front-end:** JavaScript | Angular | CSS
+- **Back-end:** Python | Node.js | C#
+- **Front-end:** JavaScript | Angular | CSS | Python
 - **Banco de Dados:** SQL
 
 ## 📈 Estatísticas do GitHub:
