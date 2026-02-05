@@ -6,11 +6,7 @@ Sou uma desenvolvedora FullStack do Brasil 🇧🇷, apaixonada por transformar 
 
 - **Back-end:** Python | Node.js | C#
 - **Front-end:** JavaScript | Angular | CSS | Python
-- **Banco de Dados:** SQL | EspoCRM
-
-## 📈 Estatísticas do GitHub:
-
-![Estatísticas do GitHub de Larissa](https://github-readme-stats.vercel.app/api?username=LPMLarica&show_icons=true&theme=radical)
+- **Banco de Dados:** MongoDB | EspoCRM
 
 ## 📂 Projetos Destacados:
 
