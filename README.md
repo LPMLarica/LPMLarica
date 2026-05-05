@@ -1,6 +1,6 @@
 # 👩‍💻 Olá, eu sou a Larissa Campos!
 
-Sou uma desenvolvedora FullStack do Brasil 🇧🇷, apaixonada por transformar ideias e problemas em aplicações reais de IA com performance e estilo.
+Sou uma desenvolvedora FullStack do Brasil 🇧🇷, apaixonada por transformar ideias e problemas em aplicações reais de IA.
 
 ## 🚀 Tecnologias e Ferramentas:
 
@@ -23,7 +23,6 @@ Sou uma desenvolvedora FullStack do Brasil 🇧🇷, apaixonada por transformar 
   Projeto de reconhecimento de orçamentos linkando com dados dos profissionais, agendamento de consulta e dados do paciente.
 
 -  [**Projeto RH**](https://github.com/LPMLarica/ProjetoRH)  
-  Sistema interativo para visualização de pontos relacionados a cursos assistidos, certificados e horas gastas estudando.
 
 - [**CGW Project**](https://github.com/LPMLarica/CGWproject): Projeto do site da empresa CGW
 
@@ -31,7 +30,7 @@ Sou uma desenvolvedora FullStack do Brasil 🇧🇷, apaixonada por transformar 
 
 - **GitHub:** [LPMLarica](https://github.com/LPMLarica)
 - **E-mail:** [larissacamposcardoso@gmail.com](mailto:larissacamposcardoso@gmail.com)
-- **LinkedIn:** [Larissa Campos]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/larissa-campos-a70284239))
+- **LinkedIn:** [Larissa Campos]([(https://www.linkedin.com/in/larissa-campos-a70284239)])
 
 ---
 
