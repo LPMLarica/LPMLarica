@@ -22,15 +22,13 @@ Sou uma desenvolvedora FullStack do Brasil 🇧🇷, apaixonada por transformar 
 -  [**Monitoramento OS**](https://github.com/LPMLarica/ProjetoEngSoftware)  
   Projeto de reconhecimento de orçamentos linkando com dados dos profissionais, agendamento de consulta e dados do paciente.
 
--  [**Projeto RH**](https://github.com/LPMLarica/ProjetoRH)  
-
 - [**CGW Project**](https://github.com/LPMLarica/CGWproject): Projeto do site da empresa CGW
 
 ## 📫 Como me encontrar:
 
 - **GitHub:** [LPMLarica](https://github.com/LPMLarica)
 - **E-mail:** [larissacamposcardoso@gmail.com](mailto:larissacamposcardoso@gmail.com)
-- **LinkedIn:** [Larissa Campos]([(https://www.linkedin.com/in/larissa-campos-a70284239)])
+- **LinkedIn:** [Larissa Campos](https://www.linkedin.com/in/larissa-campos-a70284239)
 
 ---
 
