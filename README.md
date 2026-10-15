@@ -1,12 +1,13 @@
 # 👩‍💻 Olá, eu sou a Larissa Campos!
 
-Sou uma desenvolvedora FullStack do Brasil 🇧🇷, apaixonada por transformar ideias e problemas em aplicações reais de IA.
+Sou uma desenvolvedora FullStack do Brasil 🇧🇷, apaixonada por transformar ideias inovadoras e soluções de problemas em aplicações reais.
 
 ## 🚀 Tecnologias e Ferramentas:
 
 - **Back-end:** Python | Node.js | C#
 - **Front-end:** JavaScript | Angular | CSS | Python
-- **Banco de Dados:** MongoDB | EspoCRM
+- **Banco de Dados:** MongoDB | EspoCRM | S3 | DynamoDB
+- **Infras:** AWS | Oracle 
 
 ## 📂 Projetos Destacados:
 
@@ -14,7 +15,7 @@ Sou uma desenvolvedora FullStack do Brasil 🇧🇷, apaixonada por transformar 
 
 - [**Hackathon Project**](https://github.com/LPMLarica/hackathon-project): Projeto Hackathon Biofy
 
-- [**Projeto Curso**](https://github.com/LPMLarica/projetoCurso): Projeto Curso Angular 1
+- [**Projeto Faísca**](https://github.com/LPMLarica/v.1.1_cyrinogameclasses): Projeto Jogo Faísca 
 
 -  [**stmonetario**](https://github.com/LPMLarica/stmonetario)  
   Aplicação em Streamlit para controle financeiro pessoal, focado em praticidade e visualização de dados.
@@ -29,6 +30,7 @@ Sou uma desenvolvedora FullStack do Brasil 🇧🇷, apaixonada por transformar 
 - **GitHub:** [LPMLarica](https://github.com/LPMLarica)
 - **E-mail:** [larissacamposcardoso@gmail.com](mailto:larissacamposcardoso@gmail.com)
 - **LinkedIn:** [Larissa Campos](https://www.linkedin.com/in/larissa-campos-a70284239)
+- **ORCID:** [Larissa Campos](https://orcid.org/0009-0009-6869-2799)
 
 ---
 
