@@ -23,7 +23,7 @@ Sou uma desenvolvedora FullStack do Brasil 🇧🇷, apaixonada por transformar 
 -  [**Monitoramento OS**](https://github.com/LPMLarica/ProjetoEngSoftware)  
   Projeto de reconhecimento de orçamentos linkando com dados dos profissionais, agendamento de consulta e dados do paciente.
 
-- [**CGW Project**](https://github.com/LPMLarica/CGWproject): Projeto do site da empresa CGW
+- [**Agenda Project**](https://github.com/LPMLarica/siteanalaura): Projeto do site de agendas da Psicóloga Ana Laura Cunha
 
 ## 📫 Como me encontrar:
 
